@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7e8fdc309f5cba32bf5355843c2fa94353842a7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="91f8524b77f18be07d957c8e7f9ba1bf553cf8bc">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0df5bb0cd96d796e027c9952ae3f35957f2ee608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e14ad8e4542cb138a4c3ab66140491937194abe2">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41d3f2c3cd4db21ea1161c6ac3402834cafc0b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/Android/android-studio/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha1/constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="23c28d005ab0c8197f8ee39d63b4dd09949bf9cc">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha1_f167477d9ee7f1bc3ce927b1908a4263249937f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b692530197a97ddaf06e1894eb69d655eaa7834e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a3fe26d6e613b7c21b45f651583491699c5b0763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5110f033ac2698ab5e11e9cb4408802e532547b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6ea200a19689e637dafc8b8f036734a1b9cbe2b3">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha1_71c30c995d082b5c56106ccd7c5033fd4c1e21bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_e2a712f8c7ba3d6559a6b98da9d199bc3850760e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/nitadmin/BSCenter/Projects/BSCenterDrawerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_8301aea9511fa7e969957b76497aee96abb2914e/classes.dex" />
+    </item>
+
+</items>

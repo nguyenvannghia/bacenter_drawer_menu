@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bscenter.cf.drawermenu.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tbHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnAction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="action"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            tools:ignore="HardcodedText" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/dlContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tbHeader">
+
+        <FrameLayout
+            android:id="@+id/frMain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Main"
+                android:textColor="@android:color/white"
+                android:textSize="25sp" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/rlRootMenu"
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@android:color/white" />
+
+    </android.support.v4.widget.DrawerLayout>
+
+</RelativeLayout>
